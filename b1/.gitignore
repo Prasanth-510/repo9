@@ -2,3 +2,5 @@
 pack.txt
 /pack1.txt
 .gitignore
+
+# .gitignore file is added or mentioned but still tracking 
